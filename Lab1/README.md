@@ -5,7 +5,7 @@ LAB 1
 
 | Field | Details |
 |---|---|
-| Name | Gayathri Priya V |
-| SRN | YOUR_SRN |
+| Name | GAYATHRI PRIYA V|
+| SRN | PES1UG24AM105 |
 | Course | B.Tech CSE (AIML) |
 | University | PES University |
